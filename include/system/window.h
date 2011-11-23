@@ -22,6 +22,8 @@
 #include <system/graphics.h>
 #include <cutils/native_handle.h>
 
+#include <string.h>
+
 __BEGIN_DECLS
 
 /*****************************************************************************/
